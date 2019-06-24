@@ -1,6 +1,8 @@
+import { ROTATE } from './types';
+
 const rotateAction = (payload) => {
   return {
-    type: "rotate",
+    type: ROTATE,
     payload
   }
 }
