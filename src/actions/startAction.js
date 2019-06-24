@@ -1,4 +1,4 @@
-export const startAction = {
-    type: "rotate",
-    payload: true
-  };
+// export const startAction = {
+//     type: "rotate",
+//     payload: true
+//   };
